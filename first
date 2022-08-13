@@ -1,1 +1,1 @@
-"la " + os.listdir()
+"la " + os.getcwd()
